@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏽 About Me:
 Front-End Dev<br>⚛️ ReactJs || 🇳extJs || 🅥 VueJs ||🍃 Tailwind CSS || HTML 
 
 
